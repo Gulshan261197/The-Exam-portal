@@ -1,0 +1,9 @@
+{
+  "mongodb": {
+    "connectionString": "mongodb+srv://mohitkumar261197:mohitkumar123@cluster1.c1drq39.mongodb.net/Onlone-Exam-Portal",
+    "authDB":"admin"
+  },
+  "jwt": {
+      "secret" : "mysecret"
+  }
+}
