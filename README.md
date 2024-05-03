@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!--
 Hey, thanks for using the awesome-readme-template template.  
 If you have any enhancements, then fork this project and create a pull request 
@@ -243,3 +244,7 @@ Following libraries have been used in this projects.
  - [Passport JS](https://www.passportjs.org/)
  - [Awesome Readme Template](https://github.com/Louis3797/awesome-readme-template)
 
+=======
+# The-Exam-portal
+College Projects 
+>>>>>>> 36e1270a07b6857dd9892282535455ae298b65f2
